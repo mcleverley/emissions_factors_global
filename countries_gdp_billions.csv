@@ -1,237 +1,231 @@
-"International_data"
-"https://www.eia.gov/beta/international/data/browser/#/?pa=000000000000000000000000000000000000000000000000000000004&c=ruvvvvvfvtvnvv1vrvvvvfvvvvvvfvvvou20evvvvvvvvvvvvuvs&ct=0&tl_id=4701-A&vs=INTL.4701-34-AFG-BDOLPPP.A&cy=2015&vo=0&v=H&start=2015&end=2016&showdm=y"
-"Tue Oct 15 2019 17:17:33 GMT-0400 (Eastern Daylight Time)"
-"Source: U.S. Energy Information Administration"
-,,,2015,2016
-"","Gross Domestic Product","Billion $2010 PPP"
-"","GDP",""
-"","Afghanistan","Billion $2010 PPP",57.5893,59.6389
-"","Albania","Billion $2010 PPP",29.8787,30.8758
-"","Algeria","Billion $2010 PPP",536.458,553.624
-"","American Samoa","Billion $2010 PPP",NA,NA
-"","Angola","Billion $2010 PPP",181.496,176.813
-"","Antarctica","Billion $2010 PPP",NA,NA
-"","Antigua and Barbuda","Billion $2010 PPP",1.97332,2.07874
-"","Argentina","Billion $2010 PPP",814.316,799.476
-"","Armenia","Billion $2010 PPP",23.3999,23.4467
-"","Aruba","Billion $2010 PPP",2.56026,2.55485
-"","Australia","Billion $2010 PPP",1059.462,1088.903
-"","Austria","Billion $2010 PPP",375.4779,383.118
-"","Azerbaijan","Billion $2010 PPP",160.046,155.209
-"","Bahrain","Billion $2010 PPP",59.0337,61.0762
-"","Bangladesh","Billion $2010 PPP",532.132,569.985
-"","Barbados","Billion $2010 PPP",4.65278,4.73187
-"","Belarus","Billion $2010 PPP",159.799,155.762
-"","Belgium","Billion $2010 PPP",457.893,464.71
-"","Belize","Billion $2010 PPP",2.83381,2.81235
-"","Benin","Billion $2010 PPP",20.5871,21.4033
-"","Bermuda","Billion $2010 PPP",5.09831,5.09204
-"","Bhutan","Billion $2010 PPP",5.44279,5.87771
-"","Bolivia","Billion $2010 PPP",68.5895,71.5314
-"","Bosnia and Herzegovina","Billion $2010 PPP",38.2978,39.5605
-"","Botswana","Billion $2010 PPP",32.53,33.9338
-"","Brazil","Billion $2010 PPP",2968.532,2870.234
-"","British Virgin Islands","Billion $2010 PPP",0.968626,0.971932
-"","Brunei","Billion $2010 PPP",30.5114,29.7591
-"","Bulgaria","Billion $2010 PPP",127.0782,132.0508
-"","Burkina Faso","Billion $2010 PPP",28.3196,29.9947
-"","Burundi","Billion $2010 PPP",7.20437,7.13017
-"","Cambodia","Billion $2010 PPP",50.0226,53.4654
-"","Cameroon","Billion $2010 PPP",73.5677,76.9873
-"","Canada","Billion $2010 PPP",1504.959,1521.62
-"","Cape Verde","Billion $2010 PPP",3.08764,3.2055
-"","Cayman Islands","Billion $2010 PPP",2.32345,2.4056
-"","Central African Republic","Billion $2010 PPP",2.70253,2.82499
-"","Chad","Billion $2010 PPP",28.1143,26.3062
-"","Chile","Billion $2010 PPP",391.7902,396.4493
-"","China","Billion $2010 PPP",18200,19400
-"","Colombia","Billion $2010 PPP",610.462,623.204
-"","Comoros","Billion $2010 PPP",1.12427,1.149
-"","Congo-Brazzaville","Billion $2010 PPP",27.8016,27.2832
-"","Congo-Kinshasa","Billion $2010 PPP",57.6723,59.0561
-"","Cook Islands","Billion $2010 PPP",NA,NA
-"","Costa Rica","Billion $2010 PPP",69.4117,72.3589
-"","Cote dIvoire","Billion $2010 PPP",74.0627,80.241
-"","Croatia","Billion $2010 PPP",85.5029,88.5387
-"","Cuba","Billion $2010 PPP",131.242,130.111
-"","Cyprus","Billion $2010 PPP",26.4682,27.7419
-"","Czech Republic","Billion $2010 PPP",313.711,321.115
-"","Denmark","Billion $2010 PPP",247.5347,253.4745
-"","Djibouti","Billion $2010 PPP",2.8521,3.03747
-"","Dominica","Billion $2010 PPP",0.715761,0.734646
-"","Dominican Republic","Billion $2010 PPP",138.157,147.299
-"","Ecuador","Billion $2010 PPP",169.987,167.902
-"","Egypt","Billion $2010 PPP",987.751,1030.01
-"","El Salvador","Billion $2010 PPP",43.4049,44.5252
-"","Equatorial Guinea","Billion $2010 PPP",31.7452,28.9102
-"","Eritrea","Billion $2010 PPP",8.03773,8.34316
-"","Estonia","Billion $2010 PPP",34.746,35.9611
-"","Ethiopia","Billion $2010 PPP",152.347,163.867
-"","Falkland Islands","Billion $2010 PPP",NA,NA
-"","Faroe Islands","Billion $2010 PPP",NA,NA
-"","Fiji","Billion $2010 PPP",7.41051,7.45922
-"","Finland","Billion $2010 PPP",207.7555,213.5144
-"","Former Czechoslovakia","Billion $2010 PPP",--,--
-"","Former Serbia and Montenegro","Billion $2010 PPP",--,--
-"","Former U.S.S.R.","Billion $2010 PPP",--,--
-"","Former Yugoslavia","Billion $2010 PPP",--,--
-"","France","Billion $2010 PPP",2460.329,2487.65
-"","French Guiana","Billion $2010 PPP",NA,NA
-"","French Polynesia","Billion $2010 PPP",NA,NA
-"","Gabon","Billion $2010 PPP",31.8322,32.4979
-"","Gambia, The","Billion $2010 PPP",4.73812,4.84097
-"","Georgia","Billion $2010 PPP",34.5105,35.4876
-"","Germany","Billion $2010 PPP",3572.25,3649.314
-"","Germany, East","Billion $2010 PPP",--,--
-"","Germany, West","Billion $2010 PPP",--,--
-"","Ghana","Billion $2010 PPP",103.305,106.867
-"","Gibraltar","Billion $2010 PPP",NA,NA
-"","Greece","Billion $2010 PPP",263.1235,262.4399
-"","Greenland","Billion $2010 PPP",4.38662,4.72276
-"","Grenada","Billion $2010 PPP",1.33219,1.35704
-"","Guadeloupe","Billion $2010 PPP",9.65761,9.74452
-"","Guam","Billion $2010 PPP",NA,NA
-"","Guatemala","Billion $2010 PPP",115.999,119.582
-"","Guinea","Billion $2010 PPP",20.825,23.0021
-"","Guinea-Bissau","Billion $2010 PPP",2.50839,2.66549
-"","Guyana","Billion $2010 PPP",5.31614,5.49455
-"","Haiti","Billion $2010 PPP",17.3201,17.5728
-"","Hawaiian Trade Zone","Billion $2010 PPP",--,--
-"","Honduras","Billion $2010 PPP",37.914,39.3365
-"","Hong Kong","Billion $2010 PPP",383.0395,391.3758
-"","Hungary","Billion $2010 PPP",243.1431,248.4499
-"","Iceland","Billion $2010 PPP",14.5013,15.5683
-"","India","Billion $2010 PPP",7329.59,7962.03
-"","Indonesia","Billion $2010 PPP",2622.646,2754.647
-"","Iran","Billion $2010 PPP",1271.35,1441.91
-"","Iraq","Billion $2010 PPP",624.663,693.34
-"","Ireland","Billion $2010 PPP",279.685,293.4552
-"","Israel","Billion $2010 PPP",264.811,275.424
-"","Italy","Billion $2010 PPP",2014.953,2039.774
-"","Jamaica","Billion $2010 PPP",22.8512,23.1651
-"","Japan","Billion $2010 PPP",4711.25,4740.05
-"","Jordan","Billion $2010 PPP",76.1741,77.7073
-"","Kazakhstan","Billion $2010 PPP",404.45,408.057
-"","Kenya","Billion $2010 PPP",131.216,138.918
-"","Kiribati","Billion $2010 PPP",0.197815,0.200071
-"","Kosovo","Billion $2010 PPP",16.1653,16.8218
-"","Kuwait","Billion $2010 PPP",260.894,268.528
-"","Kyrgyzstan","Billion $2010 PPP",19.0158,19.8334
-"","Laos","Billion $2010 PPP",38.4975,41.2013
-"","Latvia","Billion $2010 PPP",45.0724,45.7722
-"","Lebanon","Billion $2010 PPP",76.5348,78.0655
-"","Lesotho","Billion $2010 PPP",6.03207,6.20492
-"","Liberia","Billion $2010 PPP",5.39527,5.30896
-"","Libya","Billion $2010 PPP",55.5106,53.0324
-"","Lithuania","Billion $2010 PPP",76.6018,78.4041
-"","Luxembourg","Billion $2010 PPP",52.2378,53.4975
-"","Macau","Billion $2010 PPP",59.141,58.6305
-"","Macedonia","Billion $2010 PPP",26.8408,27.6053
-"","Madagascar","Billion $2010 PPP",32.1562,33.5068
-"","Malawi","Billion $2010 PPP",18.7403,19.2059
-"","Malaysia","Billion $2010 PPP",753.146,784.953
-"","Maldives","Billion $2010 PPP",5.62396,5.97057
-"","Mali","Billion $2010 PPP",41.1188,44.3545
-"","Malta","Billion $2010 PPP",15.4788,16.363
-"","Martinique","Billion $2010 PPP",7.05837,6.98073
-"","Mauritania","Billion $2010 PPP",14.7552,15.0503
-"","Mauritius","Billion $2010 PPP",23.3501,24.2462
-"","Mexico","Billion $2010 PPP",2089.537,2145.035
-"","Micronesia","Billion $2010 PPP",NA,NA
-"","Moldova","Billion $2010 PPP",19.3683,20.2399
-"","Mongolia","Billion $2010 PPP",33.4835,33.9447
-"","Montenegro","Billion $2010 PPP",9.19254,9.45912
-"","Montserrat","Billion $2010 PPP",NA,NA
-"","Morocco","Billion $2010 PPP",252.491,255.334
-"","Mozambique","Billion $2010 PPP",30.6817,31.8363
-"","Myanmar","Billion $2010 PPP",259.576,274.87
-"","Namibia","Billion $2010 PPP",23.6961,23.8482
-"","Nauru","Billion $2010 PPP",NA,NA
-"","Nepal","Billion $2010 PPP",63.8418,66.2445
-"","Netherlands","Billion $2010 PPP",783.281,800.064
-"","Netherlands Antilles","Billion $2010 PPP",2.80901,2.78186
-"","New Caledonia","Billion $2010 PPP",NA,NA
-"","New Zealand","Billion $2010 PPP",156.5155,163.069
-"","Nicaragua","Billion $2010 PPP",29.5316,30.9075
-"","Niger","Billion $2010 PPP",17.7128,18.5852
-"","Nigeria","Billion $2010 PPP",1006.39,990.122
-"","Niue","Billion $2010 PPP",NA,NA
-"","North Korea","Billion $2010 PPP",41.2383,42.8336
-"","Northern Mariana Islands","Billion $2010 PPP",NA,NA
-"","Norway","Billion $2010 PPP",329.5712,332.5199
-"","Oman","Billion $2010 PPP",158.349,166.236
-"","Pakistan","Billion $2010 PPP",857.182,896.298
-"","Palestinian Territories","Billion $2010 PPP",10.2099,10.6906
-"","Panama","Billion $2010 PPP",79.3913,83.1184
-"","Papua New Guinea","Billion $2010 PPP",24.6606,25.2872
-"","Paraguay","Billion $2010 PPP",72.4129,75.5521
-"","Peru","Billion $2010 PPP",359.365,373.98
-"","Philippines","Billion $2010 PPP",685.566,732.704
-"","Poland","Billion $2010 PPP",929.068,957.418
-"","Portugal","Billion $2010 PPP",268.0327,273.1943
-"","Puerto Rico","Billion $2010 PPP",64.3399,62.6631
-"","Qatar","Billion $2010 PPP",291.073,297.335
-"","Reunion","Billion $2010 PPP",19.9776,20.597
-"","Romania","Billion $2010 PPP",386.6101,405.0767
-"","Russia","Billion $2010 PPP",3497.088,3491.709
-"","Rwanda","Billion $2010 PPP",19.5367,20.7052
-"","Saint Helena","Billion $2010 PPP",NA,NA
-"","Saint Kitts and Nevis","Billion $2010 PPP",1.3321,1.37406
-"","Saint Lucia","Billion $2010 PPP",2.08032,2.09485
-"","Saint Pierre and Miquelon","Billion $2010 PPP",NA,NA
-"","Saint Vincent/Grenadines","Billion $2010 PPP",1.11309,1.13379
-"","Samoa","Billion $2010 PPP",0.922078,0.987519
-"","Sao Tome and Principe","Billion $2010 PPP",0.564318,0.587902
-"","Saudi Arabia","Billion $2010 PPP",1567.67,1593.75
-"","Senegal","Billion $2010 PPP",41.9814,44.8117
-"","Serbia","Billion $2010 PPP",92.2,95.2698
-"","Seychelles","Billion $2010 PPP",2.22684,2.25957
-"","Sierra Leone","Billion $2010 PPP",9.31742,9.88578
-"","Singapore","Billion $2010 PPP",446.131,458.821
-"","Slovakia","Billion $2010 PPP",150.2589,154.9549
-"","Slovenia","Billion $2010 PPP",58.6084,60.4704
-"","Solomon Islands","Billion $2010 PPP",1.01052,1.04329
-"","Somalia","Billion $2010 PPP",6.70338,6.87767
-"","South Africa","Billion $2010 PPP",669.892,672.566
-"","South Korea","Billion $2010 PPP",1707.991,1758.024
-"","South Sudan","Billion $2010 PPP",NA,NA
-"","Spain","Billion $2010 PPP",1490.249,1537.468
-"","Sri Lanka","Billion $2010 PPP",227.599,237.77
-"","Sudan","Billion $2010 PPP",189.948,198.875
-"","Suriname","Billion $2010 PPP",8.00412,7.59277
-"","Swaziland","Billion $2010 PPP",10.0242,10.3472
-"","Sweden","Billion $2010 PPP",440.949,451.782
-"","Switzerland","Billion $2010 PPP",450.298,457.51
-"","Syria","Billion $2010 PPP",70.8996,68.489
-"","Taiwan","Billion $2010 PPP",1014.591,1029.931
-"","Tajikistan","Billion $2010 PPP",21.0895,22.5447
-"","Tanzania","Billion $2010 PPP",127.632,136.526
-"","Thailand","Billion $2010 PPP",1026.511,1060.967
-"","The Bahamas","Billion $2010 PPP",10.7636,10.5818
-"","Timor-Leste","Billion $2010 PPP",6.53464,6.86137
-"","Togo","Billion $2010 PPP",10.5278,11.0541
-"","Tonga","Billion $2010 PPP",0.491316,0.507894
-"","Trinidad and Tobago","Billion $2010 PPP",42.1897,41.2327
-"","Tunisia","Billion $2010 PPP",118.888,120.206
-"","Turkey","Billion $2010 PPP",1759.565,1815.585
-"","Turkmenistan","Billion $2010 PPP",81.7156,86.782
-"","Turks and Caicos Islands","Billion $2010 PPP",NA,NA
-"","Tuvalu","Billion $2010 PPP",NA,NA
-"","U.S. Pacific Islands","Billion $2010 PPP",NA,NA
-"","U.S. Territories","Billion $2010 PPP",NA,NA
-"","U.S. Virgin Islands","Billion $2010 PPP",1.61864,1.63433
-"","Uganda","Billion $2010 PPP",74.0869,75.9986
-"","Ukraine","Billion $2010 PPP",313.29,320.937
-"","United Arab Emirates","Billion $2010 PPP",596.927,614.766
-"","United Kingdom","Billion $2010 PPP",2516.849,2561.884
-"","United States","Billion $2010 PPP",16700,17000
-"","Uruguay","Billion $2010 PPP",66.6606,67.787
-"","Uzbekistan","Billion $2010 PPP",174.76,188.391
-"","Vanuatu","Billion $2010 PPP",0.646307,0.672159
-"","Venezuela","Billion $2010 PPP",475.87,428.02
-"","Vietnam","Billion $2010 PPP",509.142,540.764
-"","Wake Island","Billion $2010 PPP",NA,NA
-"","Western Sahara","Billion $2010 PPP",NA,NA
-"","Yemen","Billion $2010 PPP",56.3615,50.8498
-"","Zambia","Billion $2010 PPP",57.2042,59.3534
-"","Zimbabwe","Billion $2010 PPP",29.2639,29.444
+Gross Domestic Product,2015,2016
+Afghanistan,57.5893,59.6389
+Albania,29.8787,30.8758
+Algeria,536.458,553.624
+American Samoa,NA,NA
+Angola,181.496,176.813
+Antarctica,NA,NA
+Antigua and Barbuda,1.97332,2.07874
+Argentina,814.316,799.476
+Armenia,23.3999,23.4467
+Aruba,2.56026,2.55485
+Australia,1059.462,1088.903
+Austria,375.4779,383.118
+Azerbaijan,160.046,155.209
+Bahrain,59.0337,61.0762
+Bangladesh,532.132,569.985
+Barbados,4.65278,4.73187
+Belarus,159.799,155.762
+Belgium,457.893,464.71
+Belize,2.83381,2.81235
+Benin,20.5871,21.4033
+Bermuda,5.09831,5.09204
+Bhutan,5.44279,5.87771
+Bolivia,68.5895,71.5314
+Bosnia and Herzegovina,38.2978,39.5605
+Botswana,32.53,33.9338
+Brazil,2968.532,2870.234
+British Virgin Islands,0.968626,0.971932
+Brunei,30.5114,29.7591
+Bulgaria,127.0782,132.0508
+Burkina Faso,28.3196,29.9947
+Burundi,7.20437,7.13017
+Cambodia,50.0226,53.4654
+Cameroon,73.5677,76.9873
+Canada,1504.959,1521.62
+Cape Verde,3.08764,3.2055
+Cayman Islands,2.32345,2.4056
+Central African Republic,2.70253,2.82499
+Chad,28.1143,26.3062
+Chile,391.7902,396.4493
+China,18200,19400
+Colombia,610.462,623.204
+Comoros,1.12427,1.149
+Congo-Brazzaville,27.8016,27.2832
+Congo-Kinshasa,57.6723,59.0561
+Cook Islands,NA,NA
+Costa Rica,69.4117,72.3589
+Cote dIvoire,74.0627,80.241
+Croatia,85.5029,88.5387
+Cuba,131.242,130.111
+Cyprus,26.4682,27.7419
+Czech Republic,313.711,321.115
+Denmark,247.5347,253.4745
+Djibouti,2.8521,3.03747
+Dominica,0.715761,0.734646
+Dominican Republic,138.157,147.299
+Ecuador,169.987,167.902
+Egypt,987.751,1030.01
+El Salvador,43.4049,44.5252
+Equatorial Guinea,31.7452,28.9102
+Eritrea,8.03773,8.34316
+Estonia,34.746,35.9611
+Ethiopia,152.347,163.867
+Falkland Islands,NA,NA
+Faroe Islands,NA,NA
+Fiji,7.41051,7.45922
+Finland,207.7555,213.5144
+Former Czechoslovakia,--,--
+Former Serbia and Montenegro,--,--
+Former U.S.S.R.,--,--
+Former Yugoslavia,--,--
+France,2460.329,2487.65
+French Guiana,NA,NA
+French Polynesia,NA,NA
+Gabon,31.8322,32.4979
+"Gambia, The",4.73812,4.84097
+Georgia,34.5105,35.4876
+Germany,3572.25,3649.314
+"Germany, East",--,--
+"Germany, West",--,--
+Ghana,103.305,106.867
+Gibraltar,NA,NA
+Greece,263.1235,262.4399
+Greenland,4.38662,4.72276
+Grenada,1.33219,1.35704
+Guadeloupe,9.65761,9.74452
+Guam,NA,NA
+Guatemala,115.999,119.582
+Guinea,20.825,23.0021
+Guinea-Bissau,2.50839,2.66549
+Guyana,5.31614,5.49455
+Haiti,17.3201,17.5728
+Hawaiian Trade Zone,--,--
+Honduras,37.914,39.3365
+Hong Kong,383.0395,391.3758
+Hungary,243.1431,248.4499
+Iceland,14.5013,15.5683
+India,7329.59,7962.03
+Indonesia,2622.646,2754.647
+Iran,1271.35,1441.91
+Iraq,624.663,693.34
+Ireland,279.685,293.4552
+Israel,264.811,275.424
+Italy,2014.953,2039.774
+Jamaica,22.8512,23.1651
+Japan,4711.25,4740.05
+Jordan,76.1741,77.7073
+Kazakhstan,404.45,408.057
+Kenya,131.216,138.918
+Kiribati,0.197815,0.200071
+Kosovo,16.1653,16.8218
+Kuwait,260.894,268.528
+Kyrgyzstan,19.0158,19.8334
+Laos,38.4975,41.2013
+Latvia,45.0724,45.7722
+Lebanon,76.5348,78.0655
+Lesotho,6.03207,6.20492
+Liberia,5.39527,5.30896
+Libya,55.5106,53.0324
+Lithuania,76.6018,78.4041
+Luxembourg,52.2378,53.4975
+Macau,59.141,58.6305
+Macedonia,26.8408,27.6053
+Madagascar,32.1562,33.5068
+Malawi,18.7403,19.2059
+Malaysia,753.146,784.953
+Maldives,5.62396,5.97057
+Mali,41.1188,44.3545
+Malta,15.4788,16.363
+Martinique,7.05837,6.98073
+Mauritania,14.7552,15.0503
+Mauritius,23.3501,24.2462
+Mexico,2089.537,2145.035
+Micronesia,NA,NA
+Moldova,19.3683,20.2399
+Mongolia,33.4835,33.9447
+Montenegro,9.19254,9.45912
+Montserrat,NA,NA
+Morocco,252.491,255.334
+Mozambique,30.6817,31.8363
+Myanmar,259.576,274.87
+Namibia,23.6961,23.8482
+Nauru,NA,NA
+Nepal,63.8418,66.2445
+Netherlands,783.281,800.064
+Netherlands Antilles,2.80901,2.78186
+New Caledonia,NA,NA
+New Zealand,156.5155,163.069
+Nicaragua,29.5316,30.9075
+Niger,17.7128,18.5852
+Nigeria,1006.39,990.122
+Niue,NA,NA
+North Korea,41.2383,42.8336
+Northern Mariana Islands,NA,NA
+Norway,329.5712,332.5199
+Oman,158.349,166.236
+Pakistan,857.182,896.298
+Palestinian Territories,10.2099,10.6906
+Panama,79.3913,83.1184
+Papua New Guinea,24.6606,25.2872
+Paraguay,72.4129,75.5521
+Peru,359.365,373.98
+Philippines,685.566,732.704
+Poland,929.068,957.418
+Portugal,268.0327,273.1943
+Puerto Rico,64.3399,62.6631
+Qatar,291.073,297.335
+Reunion,19.9776,20.597
+Romania,386.6101,405.0767
+Russia,3497.088,3491.709
+Rwanda,19.5367,20.7052
+Saint Helena,NA,NA
+Saint Kitts and Nevis,1.3321,1.37406
+Saint Lucia,2.08032,2.09485
+Saint Pierre and Miquelon,NA,NA
+Saint Vincent/Grenadines,1.11309,1.13379
+Samoa,0.922078,0.987519
+Sao Tome and Principe,0.564318,0.587902
+Saudi Arabia,1567.67,1593.75
+Senegal,41.9814,44.8117
+Serbia,92.2,95.2698
+Seychelles,2.22684,2.25957
+Sierra Leone,9.31742,9.88578
+Singapore,446.131,458.821
+Slovakia,150.2589,154.9549
+Slovenia,58.6084,60.4704
+Solomon Islands,1.01052,1.04329
+Somalia,6.70338,6.87767
+South Africa,669.892,672.566
+South Korea,1707.991,1758.024
+South Sudan,NA,NA
+Spain,1490.249,1537.468
+Sri Lanka,227.599,237.77
+Sudan,189.948,198.875
+Suriname,8.00412,7.59277
+Swaziland,10.0242,10.3472
+Sweden,440.949,451.782
+Switzerland,450.298,457.51
+Syria,70.8996,68.489
+Taiwan,1014.591,1029.931
+Tajikistan,21.0895,22.5447
+Tanzania,127.632,136.526
+Thailand,1026.511,1060.967
+The Bahamas,10.7636,10.5818
+Timor-Leste,6.53464,6.86137
+Togo,10.5278,11.0541
+Tonga,0.491316,0.507894
+Trinidad and Tobago,42.1897,41.2327
+Tunisia,118.888,120.206
+Turkey,1759.565,1815.585
+Turkmenistan,81.7156,86.782
+Turks and Caicos Islands,NA,NA
+Tuvalu,NA,NA
+U.S. Pacific Islands,NA,NA
+U.S. Territories,NA,NA
+U.S. Virgin Islands,1.61864,1.63433
+Uganda,74.0869,75.9986
+Ukraine,313.29,320.937
+United Arab Emirates,596.927,614.766
+United Kingdom,2516.849,2561.884
+United States,16700,17000
+Uruguay,66.6606,67.787
+Uzbekistan,174.76,188.391
+Vanuatu,0.646307,0.672159
+Venezuela,475.87,428.02
+Vietnam,509.142,540.764
+Wake Island,NA,NA
+Western Sahara,NA,NA
+Yemen,56.3615,50.8498
+Zambia,57.2042,59.3534
+Zimbabwe,29.2639,29.444
